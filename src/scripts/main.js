@@ -43,7 +43,7 @@ function grill(currentObject) {
 
 
 
-for (var i = 0; i < 5; i++) {
+for (var i = 0; i < foods.length; i++) {
     grill(foods[i])
 }
 
